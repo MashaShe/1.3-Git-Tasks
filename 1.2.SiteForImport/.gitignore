@@ -19,3 +19,5 @@ tmp/
 
 #не хочу учитывать свой zip файла
 *.zip
+
+# some updates to test commit
